@@ -3,10 +3,7 @@ import psycopg2.extras
 import csv
 import re
 
-conn = psycopg2.connect(host="localhost",
-    database="batos",
-    user="postgres",
-    password="databasepassword", port="5432")
+conn = psycopg2.connect()
 
 cur = conn.cursor()
 
