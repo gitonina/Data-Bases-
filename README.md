@@ -1,2 +1,2 @@
 # Data-Bases-
-Some projects for the date bases course
+In this repositorie, there are some python files that were used to fill a database.
